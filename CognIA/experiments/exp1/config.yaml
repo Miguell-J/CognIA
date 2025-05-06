@@ -1,7 +1,0 @@
-environment:
-  size: 5
-  obstacles: [[2, 2]]
-  goal: [4, 4]
-agent:
-  memory_capacity: 10
-  # Other agent parameters
